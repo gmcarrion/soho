@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Gina Carrion</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Gina Carrion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Wrangling and Data Exploration</title>
+      <link>/post/project1_mm/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/project1_mm/</guid>
+      <description>Survival from Malignant Melanomahttps://vincentarelbundock.github.io/Rdatasets/doc/boot/melanoma.html
+This data contains information collected from 205 patients from Department of Plastic Surgery, University Hospital of Odense, Denmark.</description>
+    </item>
+    
+    <item>
+      <title>Craniofacial Development</title>
+      <link>/post/cf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cf/</guid>
+      <description>This project was conducted in spring 2020 course, Cell and Developmental Biology Laboratory, at the University of Texas.</description>
+    </item>
+    
+    <item>
+      <title>Mechanisms of Polarity</title>
+      <link>/post/ws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/ws/</guid>
+      <description>This project was conducted in spring 2020 course, Cell and Developmental Biology Laboratory, at the University of Texas.</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Research Forum 2020</title>
+      <link>/post/urf2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/urf2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

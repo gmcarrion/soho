@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/development/</loc>
+    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/development/</loc>
+    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/golang/</loc>
+    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/golang/</loc>
+    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/sumo/</loc>
+    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/project1_mm/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/experience/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/cf/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/ws/</loc>
+  </url>
+  
+  <url>
+    <loc>/series/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/urf2020/</loc>
+  </url>
+  
+  <url>
+    <loc>/ws/</loc>
+  </url>
+  
+</urlset>

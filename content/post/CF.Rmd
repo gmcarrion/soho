@@ -1,0 +1,39 @@
+---
+title: "Craniofacial Development"
+author: "gina"
+date: "7/2/2020"
+output: html_document
+---
+
+This project was conducted in spring 2020 course, Cell and Developmental Biology Laboratory, at the University of Texas.  With special help from Dr. Jen Moon and Dr. Johann Eberhart!
+
+
+# INTRODUCTION
+
+Teratogens are environmental inputs that cause abnormal development in embryos.  Sensitivity to teratogens is high in early developmental stages when organs are forming.  Birth defects can be caused by teratogens introduced to embryos during development and may be exacerbated by gene-environment interactions.  Synergistic effects on development have been characterized when mutated signaling pathways are exposed to teratogens (McCarthy 2013).  Craniofacial development is regulated by many signaling pathways that, when mutated, can result in the formation of abnormal facial structures.
+
+Neural crest cells (NCC) are a pluripotent cell line that migrate from the dorsal neural tube to form many cell types including Cranial NCC involved in craniofacial development.  Cranial NCC condense into pharyngeal arches, define the face, and generate facial cartilage and skeletal elements.  The first pharyngeal arch creates the midline facial skeleton, upper and lower jaw, and the palatal skeleton.  Cranial NCC of the first pharyngeal arch differentiate into many cell types including osteoblasts and chondrocytes (Billmyre 2015).  These chondrocytes produce Meckel’s cartilage, a component of the zebrafish lower jaw, a structure homologous to mammalian middle ear (Mork 2015).  
+
+Sonic hedgehog (Shh) is a secreted protein that acts as a morphogen in many developmental pathways, namely those involved in craniofacial development.  The epithelium surrounding the first pharyngeal arch produces Shh which induces the differentiation of cranial NCC into midline cells of the face and promotes chondrogenesis.  Shh is necessary for the condensation and differentiation of Meckel’s cartilage in the first pharyngeal arch and disruption of Shh leads to hypoplasia of facial cartilage (Ahlgren 1999).
+
+Cyclopamine is a known teratogen that interacts with Hedgehog signaling to cause holoprosencephaly in sheep.  To examine how cyclopamine affects the craniofacial development of cartilage in zebrafish embryos, wild type and Shh mutant zebrafish lines were treated with cyclopamine and stained with Alcian Blue.  We found that wild type untreated embryos developed normally while wild type cyclopamine-treated embryos displayed craniofacial defects including hypoplasia of facial cartilage.  We also found that untreated Shh mutants lacked Meckel’s Cartilage and all cyclopamine-treated Shh mutants died by 4 dpf.  These results indicate that cyclopamine disrupts cartilage development in zebrafish embryos and that Shh plays a protective role against cyclopamine teratogenesis.  The zebrafish lower jaw is homologous to the mammalian middle ear and studies of how gene-environment interactions in these model organisms can give insight into hearing loss disorders caused by developmental abnormalities in the mammalian middle ear.
+
+# RESULTS
+
+To determine the effects of cyclopamine on craniofacial cartilage development, we exposed two lines of zebrafish, wild type and hypomorphic Shh mutant to 25μM cyclopamine.  At 3 hours post fertilization (hpf) wild type and Shh mutant embryos were placed either in 25μM cyclopamine or a fish water control and were incubated at 28.5 °C.  The toxin was removed after 24 hours and replaced with fish water.  At 4 dpf, the embryos were fixed with 2% PFA in PBS and stained with Alcian Blue to observe cartilage.  We found that wild type untreated embryos developed normally while wild type embryos exposed to 25μM cyclopamine completely lacked craniofacial cartilage (Fig. 1).  The wild type treated embryos were still viable at 4 dpf but had facial deformations (Fig. 2).  This indicates that cyclopamine disrupts the development of cartilage in zebrafish.  We determined that untreated Shh mutants lacked Meckel’s Cartilage but maintained other facial cartilage (Fig. 1).  This result shows that Shh is necessary for the development of Meckel’s cartilage.  By 4 dpf, we observed that all the cyclopamine-treated Shh mutant embryos had died, indicating that the concentration of cyclopamine was lethal for Shh mutant zebrafish.  The loss of Meckel’s Cartilage in the untreated Shh mutants demonstrates that Shh is necessary for the development of Meckel’s Cartilage while the loss of all viable cyclopamine-treated Shh mutant embryos indicates that cyclopamine and Shh interact synergistically in craniofacial development.   While many cyclopamine-treated wild types were viable at 4 dpf, all cyclopamine-treated Shh mutant embryos were not viable at 4 dpf.  These results suggest that Shh plays a protective role against cyclopamine teratogenesis in zebrafish craniofacial development.
+
+![](/post/CF_files/cffig1.png)
+<sub><sup> **Fig. 1 Cyclopamine induces loss of cartilage in developing embryos.**  (A-C)  Brightfield images of 4 days post fertilization (dpf) zebrafish embryos stained with Alcian Blue.  Ventral view with anterior towards the top.  (A) Untreated wild type embryos developed normally.  (B) Untreated _Shh_ mutants displayed cranial cartilage hypoplasia (asterisk).  (C) Wild types embryos treated with 25 μm cyclopamine from 3 hpf to 24 hpf.  Cyclopamine-treated wild type embryos lacked craniofacial cartilage (asterisk).  (D) All cyclopamine-treated _Shh_ mutants died by 4 dpf.  Scale Bar = 500 nm.<sub><sup>
+
+![](/post/CF_files/cffig2.png)
+
+<sub><sup> **Fig. 2 Number of viable embryos after 4 dpf.**  Approximately 30 embryos were used in each treatment.  20 wild type untreated embryos remained viable at 4 dpf.  15 wild type cyclopamine-treated embryos remained viable at 4 dpf.  15 _Shh_ mutant untreated embryos remained viable at 4 dpf.  All cyclopamine-treated _Shh_ embryos died by 4 dpf. <sub><sup>
+
+# REFERENCES
+Ahlgren, SC. & Bronner-Fraser, M. (1999), Inhibition of sonic hedgehog signaling in vivo results in craniofacial neural crest cell death.  _Current Biology, 9_, 1304-1314.
+
+Billmyre, K.K. and Klingensmith, J. (2015), Sonic hedgehog from pharyngeal arch 1 epithelium is necessary for early mandibular arch cell survival and later cartilage condensation differentiation. _Dev. Dyn., 244_: 564-576.
+
+McCarthy, N., Wetherill, L., Lovely, C. B., Swartz, M. E., Foroud, T. M., & Eberhart, J. K. (2013). Pdgfra protects against ethanol-induced craniofacial defects in a zebrafish model of FASD. _Development (Cambridge, England), 140_(15), 3254–3265. https://doi.org/10.1242/dev.094938
+
+Mork, L., & Crump, G. (2015). Zebrafish Craniofacial Development: A Window into Early Patterning. _Current topics in developmental biology, 115_, 235–269. 
