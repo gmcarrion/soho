@@ -8,7 +8,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-This project was conducted in spring 2020 course, Cell and Developmental Biology Laboratory, at the University of Texas.  With special help from Dr. Jen Moon and Dr. Dan Dickinson!
+This project was conducted in the Spring 2020 course, Cell and Developmental Biology Laboratory, at the University of Texas.  With special help from Dr. Jen Moon and Dr. Dan Dickinson!
 
 
 # INTRODUCTION

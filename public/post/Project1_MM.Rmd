@@ -20,7 +20,7 @@ MM <- MM1 %>% mutate(sex = recode(sex, `0` = "female", `1` = "male")) %>%
 ## Survival from Malignant Melanoma
 https://vincentarelbundock.github.io/Rdatasets/doc/boot/melanoma.html
 
-This data contains information collected from 205 patients from Department of Plastic Surgery, University Hospital of Odense, Denmark.  Patients had melanoma tumors surgically removed.  The thickness of the tumor was measured and whether or not the tumor was ulcerated was recorded.
+This data contains information collected from 205 patients from Department of Plastic Surgery, University Hospital of Odense, Denmark.  Patients had melanoma tumors surgically removed.  The thickness of the tumor was measured (thickness in cm).  Presence or absence of an ulcer on the tumor was recorded.  The age and sex of the patient were recorded.  The status of the patient is described as either alive, melanoma death, or unrelated death. time?
 
 ```{R}
 head(MM)

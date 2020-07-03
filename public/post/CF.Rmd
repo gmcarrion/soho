@@ -5,7 +5,7 @@ date: "7/2/2020"
 output: html_document
 ---
 
-This project was conducted in spring 2020 course, Cell and Developmental Biology Laboratory, at the University of Texas.  With special help from Dr. Jen Moon and Dr. Johann Eberhart!
+This project was conducted in the Spring 2020 course, Cell and Developmental Biology Laboratory, at the University of Texas.  With special help from Dr. Jen Moon and Dr. Johann Eberhart!
 
 
 # INTRODUCTION
@@ -34,6 +34,6 @@ Ahlgren, SC. & Bronner-Fraser, M. (1999), Inhibition of sonic hedgehog signaling
 
 Billmyre, K.K. and Klingensmith, J. (2015), Sonic hedgehog from pharyngeal arch 1 epithelium is necessary for early mandibular arch cell survival and later cartilage condensation differentiation. _Dev. Dyn., 244_: 564-576.
 
-McCarthy, N., Wetherill, L., Lovely, C. B., Swartz, M. E., Foroud, T. M., & Eberhart, J. K. (2013). Pdgfra protects against ethanol-induced craniofacial defects in a zebrafish model of FASD. _Development (Cambridge, England), 140_(15), 3254–3265. https://doi.org/10.1242/dev.094938
+McCarthy, N., Wetherill, L., Lovely, C. B., Swartz, M. E., Foroud, T. M., & Eberhart, J. K. (2013). Pdgfra protects against ethanol-induced craniofacial defects in a zebrafish model of FASD. _Development (Cambridge, England), 140_(15), 3254–3265.
 
 Mork, L., & Crump, G. (2015). Zebrafish Craniofacial Development: A Window into Early Patterning. _Current topics in developmental biology, 115_, 235–269. 
