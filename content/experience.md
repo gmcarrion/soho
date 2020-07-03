@@ -14,12 +14,12 @@ Minor in Business
 
 
 # Research Experience
-**Undergraduate Research Assistant** – _Havird Lab, University of Texas at Austin_    
+**Undergraduate Research Assistant** – _Havird Lab, University of Texas at Austin_         
 Fall 2019 - Spring 2020    
 - Researched the coevolution of mitochondrial genomes and nuclear genomes in different species of the plant genus, Silene    
 - Isolated mitochondria and analyzed the respiration rates of species within the genus, Silene    
 
-**Undergraduate Research Assistant** – _Ryan Lab, University of Texas at Austin_    
+**Undergraduate Research Assistant** – _Ryan Lab, University of Texas at Austin_     
 Fall 2018 - Summer 2019    
 - Researched the communication behaviors and hormonal state displayed by Túngara frogs when exposed to multimodal stimulation    
 - Compiled data using coding software to analyze and score the behaviors of frogs    
