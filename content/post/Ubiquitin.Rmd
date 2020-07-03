@@ -1,0 +1,22 @@
+---
+title: "Ubiquitin"
+author: "gina"
+date: "7/2/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This project was supposed to be done during the Spring 2020 course, Cell and Developmental Biology Laboratory, but was cut short by the lockdown.  The data was made up but the background and writing style are real!
+
+# ABSTRACT
+Plants rely on rapid changes in gene expression to respond to environmental stress. The ubiquitin-26S proteasome pathway is a way of regulating internal responses and gene expression by degrading proteins that are no longer required in the cell. E3 Ligases, such as the CULLIN3-Based Complex, contain substrate adaptors, like BPM3, that can bind transcription factors to regulate gene expression. We asked whether modified versions of the transcription factor, BrRAP2.4-1 (RAP), will bind the substrate adaptor, BPM3, and if the modified versions of RAP are stable in cell lysate. We tested the ability of each modified RAP to bind to BPM3 using a pull-down assay and we tested the amount of proteasome-dependent RAP degradation using an instability assay. We found that all modified RAP proteins could bind to BPM3 but those lacking a PEST domain did not bind to the same extent as those with a PEST domain. We also found that modified RAP proteins that lacked lysine-rich regions were stable in the cell lysate. These data suggest that the PEST domain on RAP proteins is involved in binding BPM3 and the lysine-rich region on RAP proteins is involved in protein stability. Effective modification of CULLIN3-BASED E3 Ligases could improve plants ability to tolerate stress and improve crop yield.
+
+# INTRODUCTION
+Plants are sessile organisms that depend on internal systems to respond to environmental cues.  Regulation of gene expression is a method used by plants to respond to external stress such as drought, heat, and salinity (Figueroa-Yañez, L., et al, 2016). The Ubiquitin-Proteasome pathway is a means of regulating gene expression by responding to external signals and facilitating the degradation of proteins that are no longer needed in the cell (Choi, C.M., et al, 2014).
+
+The 26S proteasome is a  protein complex involved in the Ubiquitin Proteasome pathway that is responsible for regulated cellular protein degradation (Livneh, I., et al, 2016).  Specifically targeted proteins are led to the proteasome by the substrate adaptor proteins of E3 ligases.  Although there are many types of E3 ligases, the largest group are the CULLIN-RING E3 Ligases (CRL3) that recognize and bind transcription factors (Choi, C.M., et al, 2014). ERF/AP2 transcription factor
+family members are targets of CRL3 mediated degradation and recognize BTB/POZ-MATH (BPM) substrate adaptors (Mooney, S., et al, 2019). Through the Ubiquitin-proteasome pathway, E2 ligases bind ubiquitin to lysine residues on the target substrate. Lysine-rich domains are important in regulated protein degradation (Middleton, A., et al. 2015).
+

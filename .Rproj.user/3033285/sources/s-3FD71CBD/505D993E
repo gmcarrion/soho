@@ -3,22 +3,23 @@
     "path": "C:/Users/Owner/Desktop/soho/content/post/Project1_MM.Rmd",
     "project_path": "content/post/Project1_MM.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "3005434518",
     "contents": "",
     "dirty": false,
     "created": 1593720873548.0,
     "source_on_save": false,
     "relative_order": 9,
     "properties": {
-        "cursorPosition": "18,0",
-        "scrollLine": "0"
+        "cursorPosition": "22,450",
+        "scrollLine": "0",
+        "last_setup_crc32": "3FD71CBDc57a6e5d"
     },
     "folds": "",
-    "lastKnownWriteTime": 1593720915,
+    "lastKnownWriteTime": 1593736405,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1593720915719,
+    "last_content_update": 1593736405222,
     "read_only": false,
     "read_only_alternatives": []
 }
