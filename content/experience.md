@@ -16,8 +16,8 @@ _GPA: 3.587_
 
 # Research Experience
 
-**Research Technician** - _Chuo Chen Biochemistry Lab, UT Southwestern_
-June 2020 - Present
+**Research Technician** - _Chuo Chen Biochemistry Lab, UT Southwestern_     
+June 2020 - Present     
 - Assisted in researching the affects of drug treatment on cancer cell lines.     
 - Maintained cell lines.    
 
