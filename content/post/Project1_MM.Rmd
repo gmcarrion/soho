@@ -1,5 +1,5 @@
 ---
-title: Data Wrangling and Data Exploration
+title: Rstudio Project - Data Wrangling and Data Exploration
 author: Gina Carrion
 date: '2020-02-16'
 output: html_document
