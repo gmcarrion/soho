@@ -78,6 +78,3 @@ Mizukawa, B., O'Brien, E., Moreira, D. C., Wunderlich, M., Hochstetler, C. L., D
 
 Ramanujam, R., Han, Z., Zhang, Z. et al. Establishment of the PAR-1 cortical gradient by the aPKC-PRBH circuit. Nat Chem Biol 14, 917–927 (2018).
 Srinivasan, D. G., Fisk, R. M., Xu, H., & van den Heuvel, S. (2003). A complex of LIN-5 and GPR proteins regulates G protein signaling and spindle function in C elegans. _Genes & development, 17_(10), 1225–1239. 
-
-
-

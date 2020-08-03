@@ -1,0 +1,22 @@
+---
+title: "MOL1"
+author: "gina"
+date: "7/28/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Abstract
+
+Abscisic acid (ABA) is a hormone involved in stress signaling pathways in plants and animals.  In plants, ABA is found in normal regulatory pathways such as seed development and dormancy.  AGP31, a cell wall protein, is expressed in vascular tissue in plants, especially during development and dormancy.  Although ABA is involved in stress tolerance mechanisms in plants, much is still unknown about gene expression levels in _Arabidopsis thaliana_ in response to ABA and its connection to AGP31.  Our goal was to determine changes in RD29B and OLE1 gene expression levels between two AGP31 lines, wild type LER-0 and mutant 6134, in response to ABA in _A. thaliana_.  To answer this question, seedlings were grown on media with ABA, RNA was purified from each biological replicate, primers were standardized, cDNA was synthesized, and RT-qPCR was performed.  We found that ABA caused an increase in the expression of OLE1 and RD29B genes in both LER-0 and 6134 _A. thaliana_ strains.  These results indicate that OLE1 and RD29B gene expression contribute to drought and stress tolerance.  Identifying genes that are upregulated as a result of ABA could aid in developing drought resistant plants.
+
+# Results
+
+__Nanodrop Spectrophotometry.__       Nanodrop Spectrophotometry was used to evaluate the quality and the concentration of RNA in each biological replicate.  UV light absorption by the sample was used to quantify the amount of RNA in the sample using a known relationship between nucleic acid concentration and UV light absorbance.  Pure RNA samples have absorbance values (260/280) of 1.8 or higher.  We found that all the genotype-treatment samples had absorbance values over 2.03 (Table 1).  These results indicate that the RNA samples from each biological replicate were very pure.    
+
+__RNA Purification and Gels.__	To determine the integrity and intactness of the purified RNA, RNA samples from each treatment-genotype biological replicate were loaded onto an agarose gel and visualized with ethidium bromide.  We observed two distinct bands on the gel that correspond to 28S rRNA and 18S rRNA with approximate molecular weights of 3.2kb and 1.7kb, respectively (Fig. 1).  There was no observed smearing of the bands, indicating no degradation of the purified RNA.  The 28S band appeared brighter than the 18S band because the 28S band is larger.
+
+__Primer Standardization.__     To ensure that the DNA of a certain biological replicate would be as fully duplicated as another biological replicate, we performed a primer standardization reaction.  4 primer sets were designed using Perlprimer and were tested to determine if acceptably consistent and efficient duplications of the target DNA (90%-110%) were produced.  We performed a 10-fold serial dilution of cDNA in triplicates and used SYBR green dye as the fluorophore for the qPCR reaction.  A standard curve for each primer was created from the CT values and the log DNA concentration from the qPCR reaction.  The slope of the standard curve was used to determine if the primers gave the acceptable 90-110% duplication of the target DNA.  An acceptable slope and R2 value found from the standard curves are -3.3 and 0.997 respectively.  Primer Set 3 had a slope of -1.9337 and an R2 of 0.925 (Fig. 2).  These values were unacceptable and Primer Set 3 was not used.  We chose to use Primer Set 4 because it fit the acceptable primer standardization parameters.  We decided to use 50ng/μL of template for the qPCR reaction based on our primer standardization. 
