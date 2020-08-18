@@ -18,13 +18,15 @@ _GPA: 3.587_
 
 **Research Technician** - _Chuo Chen Biochemistry Lab, UT Southwestern_     
 June 2020 - Present     
-- Assisted in researching the affects of drug treatment on cancer cell lines.     
+- Assisted in researching the outcomes of drug treatment on cancer cell lines.     
 - Maintained cell lines.    
 
 **Undergraduate Research Assistant** – _Havird Lab, University of Texas at Austin_         
 Fall 2019 - Spring 2020    
 - Researched the coevolution of mitochondrial genomes and nuclear genomes in different species of the plant genus, Silene.       
-- Isolated mitochondria and analyzed the respiration rates of species within the genus, Silene.         
+- Isolated mitochondria and analyzed the respiration rates of species within the genus, Silene.    
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6882350/
 
 **Undergraduate Research Assistant** – _Ryan Lab, University of Texas at Austin_     
 Fall 2018 - Summer 2019    
