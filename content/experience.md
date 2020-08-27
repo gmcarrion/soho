@@ -13,6 +13,8 @@ B.S. Cell and Molecular Biology
 Minor in Business     
 _GPA: 3.587_   
 
+# Publications     
+Weaver, R. et al. including G.M. Carrion. “High mitochondrial mutation rates in Silene are associated with nuclear-mediated changes in mitochondrial physiology” (accepted for publication in Biology Letters).
 
 # Research Experience
 
